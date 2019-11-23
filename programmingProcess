@@ -1,0 +1,13 @@
+Objective:
+1. Write the adventure game plot
+2. Code the introduction of the scenario the player is put in
+3. Give the player a few choices
+4. Depending on what the player chose, give them a new scenario that continues the story
+5. Continue this process until the story ends
+
+Pseudocode
+Write print statement that explains game to player
+Write print statement that introduces the choices the player can make
+Take in an input from the player
+Write conditional that tests for what the player inputted
+    Write print statement that explains new scenario depending on player input
